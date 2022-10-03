@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar primer modulo de angular",
+      "day": "Septiembre 30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Hacer las compras",
+      "day": "Septiembre 29",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Investigar",
+      "day": "Octubre 2",
+      "reminder": true
+    },
+    {
+      "text": "Comprar Monitor",
+      "day": "Octubre 31",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
